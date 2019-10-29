@@ -1,2 +1,2 @@
 # demo_112
-For stat/comp 112 github demo 
+This is to demonstrate how to use GitHub with RStudio for the STAT/COMP 112 class.  
